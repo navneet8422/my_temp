@@ -1,0 +1,41 @@
+ .heroo{
+height:40vh;
+width:20px;
+-webkit-background-clip: cover;
+background-size: cover;
+
+ }
+
+
+.heroo_wrapper{
+    color:burlywood;
+    position:fixed;
+    top:50%;
+    left:50%
+    transform:(-10%,-50%);
+}
+
+.heroo_wrapper h1{
+    font-size: 2.4rem;
+    text-align: center;
+}
+
+.heroo_wrapper span{
+    margin-left: 1rem;
+    display:inline-block;
+    margin-bottom: 1rem;
+}
+
+.form_code{
+    width: 40%;
+text-align: center;
+background-color: #00bab1;
+color:white;
+padding: .6rem;
+margin:1rem auto 0rem;
+border:none;
+border-radius: .3rem;
+}
+
+
+
